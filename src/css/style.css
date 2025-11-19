@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+
+.start {
+    font-family: 'Arial', sans-serif;
+    background-color: beige;
+    color: darkblue;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
