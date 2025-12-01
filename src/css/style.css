@@ -1,5 +1,6 @@
 body {
-    background-color: aqua;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
 }
 
 .start {
@@ -11,4 +12,17 @@ body {
 img{
     width: 200px;
     height: 150px;
+}
+
+button{
+    display: block;
+    background-color: grey; /* Color inicial del botón */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue; /* Color del botón cuando el ratón pasa por encima */
 }
