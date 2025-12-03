@@ -66,3 +66,23 @@ button:hover {
     box-sizing: border-box;
     background-color: green;
 }
+
+h1{
+    color: orange;
+}
+
+.mi-clase h1{
+    color: aqua;
+}
+
+li{
+    color: rgb(0, 255, 72);
+}
+
+.mi-clase li{
+    color: aquamarine;
+}
+
+#espe{
+    color: rgb(192, 110, 17);
+}
