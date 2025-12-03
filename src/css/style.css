@@ -42,3 +42,27 @@ button:hover {
     background-color: red;
     color: aliceblue;
 }
+
+#box-sizing-demo{
+    margin-top: 40px;
+}
+
+.box-cb,
+.box-bb{
+    padding: 20px;
+    border: 5px solid rgb(23, 19, 130);
+    margin-bottom: 15px;
+    background-color: red;
+    color: aliceblue;
+}
+
+.box-cb{
+    width: 200px;
+    box-sizing: content-box;
+}
+
+.box-bb{
+    width: 200px;
+    box-sizing: border-box;
+    background-color: green;
+}
