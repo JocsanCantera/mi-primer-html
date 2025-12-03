@@ -24,5 +24,21 @@ button{
 }
 
 button:hover {
-    background-color: blue; /* Color del botón cuando el ratón pasa por encima */
+    background-color: red; /* Color del botón cuando el ratón pasa por encima */
+}
+
+#box-model{
+    margin: 15px;           /* espacio externo */
+    padding: 12px;          /* espacio interno */
+    border: 1px solid #d1d5db;
+}
+
+.box-demo{
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid red;
+    margin: 15px;
+    background-color: red;
+    color: aliceblue;
 }
