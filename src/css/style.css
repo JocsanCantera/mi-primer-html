@@ -86,3 +86,10 @@ li{
 #espe{
     color: rgb(192, 110, 17);
 }
+
+.science-gothic-uniquifier {
+  font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
